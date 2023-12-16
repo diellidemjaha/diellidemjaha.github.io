@@ -81,7 +81,7 @@ body {
   font-style: normal;
   font-weight: normal;
   line-height: 1.941;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(140, 209, 255, 0.31);
   margin: 0;
   padding: 0;
 }
@@ -191,7 +191,7 @@ p.lead {
   font-size: 2.4rem;
   line-height: 1.625;
   margin-bottom: 3.6rem;
-  color: rgba(255, 255, 255, 0.2);
+  color: rgba(140, 209, 255, 0.31);
 }
 
 @media only screen and (max-width:1200px) {
