@@ -1,2 +1,2 @@
 # diellidemjaha.github.io
-Software Engineer Dielli Demjaha based on Prishtina, Kosovo
+Personal website of Software Engineer & UI/UX designer: Dielli Demjaha - based on Prishtina, Kosovo
